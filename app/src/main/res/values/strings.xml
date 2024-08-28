@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">biometric_auth_demo</string>
+    <string name="app_title">Workfinity Lite da Shopee</string>
+    <string name="biometric_error">Deu ruim!</string>
+    <string name="biometric_success">Deu bom!</string>
+    <string name="login_button_label">Login</string>
+    <string name="unsupported_biometric">Biometria não disponível</string>
+    <string name="auth_dialog_title">Autenticar com digital</string>
+    <string name="auth_dialog_subtitle">Use o leitor de digital do seu dispositivo para autenticar no Workfinity Lite</string>
+    <string name="auth_dialog_cancel">Cancelar</string>
+</resources>
